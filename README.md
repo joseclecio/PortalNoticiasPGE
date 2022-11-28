@@ -46,6 +46,8 @@ ___
 * Npm
 * Express
 * React
+* MySQL
+* GIT
 * No visual studio code foi utilizada a extensão **REST Client** de Huachao Mao, o **Bulma Snippets** de fiazluthfi e o **ES7+ React/Redux/React-Native snippets** de dsznajder
 
 
